@@ -6,3 +6,4 @@ Newer variants of the virus have emerged that are equivalent or more dangerous t
 
 __Doori__ aims to create a real-time social distance monitoring software so that administrators can use them to locate breach of bio-bubbles. It uses OpenCV library and YOLO v3 for real-time human detection.
 
+![Output Gif](https://github.com/darthvardaan/Doori/blob/main/mylib/videos/output.gif)
