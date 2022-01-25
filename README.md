@@ -9,4 +9,4 @@ __Doori__ aims to create a real-time social distance monitoring software so that
 ![Output Gif](https://github.com/darthvardaan/Doori/blob/main/mylib/videos/output.gif)
 
 
-# __ This is a Group Project done by Vardaan Vishnu, Shikhar Vashisth, Prantik Bhattacharjee and Prashant Chauhan for Project Exhibition II Winter Semester 2020-21. __  
+__This is a Group Project done under the guidance of Dr. Abha Trivedi by Vardaan Vishnu, Shikhar Vashisth, Prantik Bhattacharjee and Prashant Chauhan for Project Exhibition II Winter Semester 2020-21.__  
