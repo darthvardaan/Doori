@@ -1,4 +1,4 @@
-# Doori - The Social Distancing Tracker built using Computer Vision
+# Doori - The Social Distancing Tracker 
 
 In the current Covid-19 situation, safety measures taken by the governments around the world have failed in front of Covid-19, due to lack of social distancing practice.
 
